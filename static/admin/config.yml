@@ -4,8 +4,8 @@ backend:
 
 media_folder: static/img
 public_folder: /img
-display_url: https://woodcreek.geosync.cloud
-logo_url: https://woodcreek.geosync.cloud/img/logo.png
+display_url: https://farmdalewaterdistrict.geosync.cloud
+logo_url: https://farmdalewaterdistrict.geosync.cloud/img/logo.png
 
 collections:
   - name: "blog"

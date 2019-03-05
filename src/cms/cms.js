@@ -38,16 +38,16 @@ var NotificationControl = class Control extends React.Component {
       disabled: true
     });
     var link = document.getElementById("link-field-" + (id - 1)).value;
-    if (link.startsWith("https://woodcreek.geosync.cloud")) {
+    if (link.startsWith("https://farmdalewaterdistrict.geosync.cloud")) {
       var url = new URL(link);
-      link = "https://cocky-hawking-7cf1af.netlify.com" + url.pathname + url.search
+      link = "https://ecstatic-bartik-a3750a.netlify.com" + url.pathname + url.search
     }
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({
         "form-name": "notification",
-        "account": "woodcreek",
+        "account": "farmdalewaterdistrict",
         "title": document.getElementById("title-field-" + (id - 5)).value,
         "priority": document.getElementById("priority-field-" + (id - 4)).getAttribute("aria-checked"),
         "sound": document.getElementById("sound-field-" + (id - 3)).getAttribute("aria-checked"),
