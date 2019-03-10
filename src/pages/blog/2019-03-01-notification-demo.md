@@ -1,18 +1,10 @@
 ---
 templateKey: blog-post
-title: Demo
+title: Boil Water Advisory
 date: 2019-03-01T10:04:07.480Z
 draft: false
-description: GeoSync Branded Notification App demonstration
+description: A boil water advisory is in effect for the downtown area.
 ---
-This is an advisory to demonstrate the GeoSync Branded Notification App.
-
-This advisory is for demonstration purposes only and should **_NOT_** be considered an actual emergency.
-
-If this were a real emergency you would be instructed....
-
-1. Blah
-2. Blah
-3. Blah
+A boil water advisory is in effect for the downtown area. To see the advisory area, use the link below.
 
 [See Map of Area](/map/?layer=Advisory&feature=0)
