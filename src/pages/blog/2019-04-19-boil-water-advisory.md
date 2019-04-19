@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Boil Water Advisory
-date: 2019-04-19T18:03:09.580Z
+date: 2019-04-12T18:03:09.580Z
 description: For Avenstoke and Crawford Rd
 ---
 For Avenstoke and Crawford Rd
