@@ -7,3 +7,7 @@ description: For Avenstoke and Crawford Rd
 For Avenstoke and Crawford Rd
 
 Brian is awesome and does a great job
+
+[see map 1](/map/?layer=Advisory&feature=1)
+
+https://farmdalewaterdistrict.geosync.cloud/map?layer=Advisory&feature=1
