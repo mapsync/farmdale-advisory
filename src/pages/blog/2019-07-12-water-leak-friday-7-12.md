@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Water Leak - Friday 7/12
+title: WATER LEAK - Friday 7/12
 date: 2019-07-12T18:12:09.487Z
 description: Highwood Dr & Running Brook Trail
 ---
